@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aleksa Ilic</h1>
 <h3 align="center">A passionate CS student from Serbia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aleksailicc&label=Profile%20views&color=ff4013&style=flat" alt="aleksailicc" /> </p>
-
-- 📫 How to reach me **aleksa.ilic.dv@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
