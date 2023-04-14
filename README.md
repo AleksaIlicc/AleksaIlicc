@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Aleksa Ilic</h1>
 <h3 align="center">A passionate CS student from Serbia</h3>
 
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/aleksa-ilic-aaa570248" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aleksa-ilic-aaa570248" height="30" width="40" /></a>
 <a href="https://instagram.com/aleksaa.ilicc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aleksaa.ilicc" height="30" width="40" /></a>
 </p>
 
@@ -13,3 +13,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aleksailicc&show_icons=true&locale=en&layout=compact" alt="aleksailicc" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aleksailicc&show_icons=true&locale=en" alt="aleksailicc" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aleksailicc&" alt="aleksailicc" /></p>
