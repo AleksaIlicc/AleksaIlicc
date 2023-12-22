@@ -1,9 +1,9 @@
 <h1> Hello World, I'm Aleksa 👋 </h1>
-<p>Hey! I'm a third-year Computer Science student at <a href="http://www.elfak.ni.ac.rs" target="_blank" rel="noreferrer"> Elfak</a> in Serbia. 
+<p>Hey! I'm a third-year Computer Science student at <a href="http://www.elfak.ni.ac.rs" target="_blank" rel="noopener"> Elfak</a> in Serbia. 
 I really enjoy working on computer programs and solving tough problems — it's the challenge that makes me excited! 💡💻</p>
 
 
-<p >Feel free to connect on <a href="www.linkedin.com/in/aleksa-ilicc" target="_blank" rel="noreferrer"> LinkedIn</a> or send me an email at <a href="mailto:aleksa.ilic.dv@outlook.com" target="blank">aleksa.ilic.dv@outlook.com</a>. I'm excited about the opportunity to connect and make new friends! 😊 </p>
+<p >Feel free to connect on <a href="www.linkedin.com/in/aleksa-ilicc" target="_blank" rel="noopener"> LinkedIn</a> or send me an email at <a href="mailto:aleksa.ilic.dv@outlook.com" target="blank">aleksa.ilic.dv@outlook.com</a>. I'm excited about the opportunity to connect and make new friends! 😊 </p>
 
 </p>
 
