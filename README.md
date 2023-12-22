@@ -3,7 +3,7 @@
 I really enjoy working on computer programs and solving tough problems — it's the challenge that makes me excited! 💡💻</p>
 
 
-<p >Feel free to connect on <a href="www.linkedin.com/in/aleksa-ilicc" target="_blank" rel="noopener"> LinkedIn</a> or send me an email at <a href="mailto:aleksa.ilic.dv@outlook.com" target="blank">aleksa.ilic.dv@outlook.com</a>. I'm excited about the opportunity to connect and make new friends! 😊 </p>
+<p >Feel free to connect on <a href="https://www.linkedin.com/in/aleksa-ilicc" target="_blank" rel="noopener"> LinkedIn</a> or send me an email at <a href="mailto:aleksa.ilic.dv@outlook.com" target="blank">aleksa.ilic.dv@outlook.com</a>. I'm excited about the opportunity to connect and make new friends! 😊 </p>
 
 </p>
 
