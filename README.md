@@ -1,5 +1,5 @@
 <h1> Hello World, I'm Aleksa 👋 </h1>
-<p>Hey! I'm a third-year Computer Science student at <a src="http://www.elfak.ni.ac.rs" target="blank"> Elfak </a>in Serbia. 
+<p>Hey! I'm a third-year Computer Science student at <a href="http://www.elfak.ni.ac.rs" target="blank"> Elfak </a>in Serbia. 
 I really enjoy working on computer programs and solving tough problems — it's the challenge that makes me excited! 💡💻</p>
 
 
