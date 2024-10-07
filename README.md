@@ -2,7 +2,7 @@
 
 <p>Hey! I’m a final-year computer science student at the <a href="http://www.elfak.ni.ac.rs" target="_blank" rel="noopener">Faculty of Electronic Engineering</a> in Serbia. I’m passionate about developing software and solving complex problems — I love a good challenge! 💡💻</p>
 
-<p>Always open to discussing innovative projects and opportunities in the tech space. Feel free to connect on <a href="https://www.linkedin.com/in/aleksa-ilicc" target="_blank" rel="noopener"> LinkedIn</a> or email me at <a href="mailto:aleksa.ilic.dv@outlook.com" target="blank">aleksa.ilic.dv@outlook.com</a>.</p>
+<p>Always open to discussing innovative projects and opportunities in the tech space. <br> Feel free to connect on <a href="https://www.linkedin.com/in/aleksa-ilicc" target="_blank" rel="noopener"> LinkedIn</a> or email me at <a href="mailto:aleksa.ilic.dv@outlook.com" target="blank">aleksa.ilic.dv@outlook.com</a>.</p>
 
 <h3 align="left">Languages and Tools: </h3> 
 <p align="left"> 
